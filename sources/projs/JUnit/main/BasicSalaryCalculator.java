@@ -1,4 +1,4 @@
-package projs.JUnit.main;
+package projs.Junit.main;
 
 public class BasicSalaryCalculator {
 	
