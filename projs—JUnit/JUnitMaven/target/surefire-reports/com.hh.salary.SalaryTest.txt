@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hh.salary.SalaryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.hh.salary.SalaryTest
+test(com.hh.salary.SalaryTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at com.hh.salary.SalaryTest.test(SalaryTest.java:21)
+

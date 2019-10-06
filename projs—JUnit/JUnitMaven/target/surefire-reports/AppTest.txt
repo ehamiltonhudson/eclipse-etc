@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: AppTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.063 s <<< FAILURE! - in AppTest
+testNameExists  Time elapsed: 0.049 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.hh.app.AppTest.testNameExists(AppTest.java:35)
+
+TestSuccessfulExists  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.hh.app.AppTest.TestSuccessfulExists(AppTest.java:47)
+
+testRatingExists  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.hh.app.AppTest.testRatingExists(AppTest.java:41)
+
