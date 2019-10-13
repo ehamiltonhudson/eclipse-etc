@@ -29,7 +29,7 @@ class BasicSalaryCalculatorTest {
 		double basicSalary = 4000;
 		basicSalaryCalculator.setBasicSalary(basicSalary);
 		
-		double expected = basicSalary * 0.25;
+		double expectedSocialInsurance = basicSalary * 0.25;
 		assertEquals(expectedSocialInsurance, basicSalaryCalculator.getSocialInsurance());
 		
 		double expectedAdditionalBonus = basicSalary * 0.1;
