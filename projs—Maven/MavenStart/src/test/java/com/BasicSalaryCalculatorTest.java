@@ -1,4 +1,4 @@
-package com.tw.tax;
+package com;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -10,15 +10,17 @@ class BasicSalaryCalculatorTest {
 
 	@BeforeEach
 	void setUp() throws Exception {
+//		assertEquals()
 	}
 
 	@AfterEach
 	void tearDown() throws Exception {
+//		assertEquals()
 	}
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+//		fail("Not yet implemented");
 	}
 
 }
