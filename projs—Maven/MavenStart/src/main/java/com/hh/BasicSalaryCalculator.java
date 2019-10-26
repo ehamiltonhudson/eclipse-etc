@@ -1,4 +1,4 @@
-package com;
+package com.hh;
 
 public class BasicSalaryCalculator {
 	
