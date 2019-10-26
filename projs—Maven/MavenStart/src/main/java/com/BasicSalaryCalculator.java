@@ -1,4 +1,4 @@
-package com.tw.tax;
+package com;
 
 public class BasicSalaryCalculator {
 	
